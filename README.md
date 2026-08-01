@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 PNG to WebP Converter
+# 🖼️ PNG to WebP Converter
 
 ### Use PNG to WebP Converter free on ToolAdda — quick, accurate, and browser-based.
 
